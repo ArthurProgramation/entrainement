@@ -1,4 +1,60 @@
-h1{
-    color: #FEBE10;
+/***main***/
+h1 {
+    color: #FEBE10 ;
+    width: 80%;
+    margin: 0 auto;
+    font-weight: bold;
+
 }
+.debut {
+    width: 80%; /* Utilisation d'un pourcentage pour une mise en page fluide */
+    margin: 0 auto;
+}
+.stade {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.legendes {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.rivaliter {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.trphée {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.actuel{
+    width: 80%;
+    margin: 0 auto;
+}
+ .resumer {
+     width: 80%;
+     margin: 0 auto;
+ }
+
+ .logo_footer ul {
+
+ }
+
+ .logo_footer li {
+     text-decoration: none;
+ }
+
+ .liste {
+     text-decoration: none;
+ }
+
+
+
+
+ 
+
+
 
